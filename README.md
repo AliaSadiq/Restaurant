@@ -22,5 +22,5 @@ To get started ,follow this steps
 ## Contributing
 Feel free to submit issues, fork the repository, or create pull requests. For detailed contribution guidelines, please refer to the CONTRIBUTING.md file.
 
-License
+## License
 This project is licensed under the MIT License.
