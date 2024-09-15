@@ -2,11 +2,13 @@
 This GitHub repository serves as a responsive and interactive website designed for a restaurant, built using React and Tailwind CSS.
 
 ## Features
-- **Create and Join Campaigns:**
-- **Responsive Design:** Ensures a seamless experience across all devices, including mobile, tablet, and desktop.
+- **Header section:** Sticky and overlapping header with navigation and call-to-action buttons.
 - **Hero Section:** Prominently displays the restaurant's branding and key offerings.
-- **Responsive Header:** Sticky and overlapping header with navigation and call-to-action buttons.
-- **Interactive Elements:** Includes features like sign-up and login buttons, and dynamic content loading.
+- **Best Seller:** Displays the best dishes that sells most.
+- **Special Section:** Contains the special dishes of our restaurant (The chef).
+- **Subscription section:** Contains call to action button with input field email.
+- **Footer:** Have the social links and info about website .
+- **Interactive Elements:** Includes features like sign-up and login buttons.
 
 ## Installation
 To get started ,follow this steps
