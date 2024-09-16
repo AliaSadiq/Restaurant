@@ -9,11 +9,14 @@ This GitHub repository serves as a responsive and interactive website designed f
 - **Subscription section:** Contains call to action button with input field email.
 - **Footer:** Have the social links and info about website .
 - **Interactive Elements:** Includes features like sign-up and login buttons.
+- **Signup:** Secure user registration with hashed passwords stored in the database.
+- **Login:** Validate credentials and manage sessions with JWT.
+- **Dashboard:** User dashboard accessible after successful login.
 
 ## Installation
 To get started ,follow this steps
--**Clone the repository:** `git clone https://github.com/yourusername/restaurant-website.git`
--**Navigate to the project directory:** `cd restaurant-website`
+-**Clone the repository:** `git clone https://github.com/yourusername/RestaurantProject.git`
+-**Navigate to the project directory:** `cd RestaurantProject`
 -**Install dependencies:** `npm install`
 -**Start the development server:**`npm start`
 
