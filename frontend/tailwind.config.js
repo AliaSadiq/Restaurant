@@ -10,6 +10,11 @@ module.exports = {
         'pacifico': ['Pacifico', 'cursive'],
    
       },
+      screens: {
+        // 'sm': '20px',
+        // 'md': '500px',
+        // 'lg': '1204px',
+      },
     },
   },
   plugins: [],
