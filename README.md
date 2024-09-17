@@ -11,7 +11,6 @@ This GitHub repository serves as a responsive and interactive website designed f
 - **Interactive Elements:** Includes features like sign-up and login buttons.
 - **Signup:** Secure user registration with hashed passwords stored in the database.
 - **Login:** Validate credentials and manage sessions with JWT.
-- **Dashboard:** User dashboard accessible after successful login.
 
 ## Installation
 To get started ,follow this steps
